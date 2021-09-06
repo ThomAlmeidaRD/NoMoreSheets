@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.container-content {
+    width: 75%;
+    padding: 20px;
+}
+
+.dashboard {
+    border: solid 1px rgba(214, 214, 214, 0.644);    
+    border-radius: 10px;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

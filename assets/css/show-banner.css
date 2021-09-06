@@ -1,0 +1,30 @@
+.show-banner {
+    background-color: mediumspringgreen;
+    color: black;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.37);
+    padding: 40px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    border-radius: 7px;
+}
+
+.show-banner-info{
+    width: 80%;
+    padding: 10px;
+}
+
+.show-banner-info h1{
+    width: 60%;
+    font-size: 2.8rem;
+    margin: 10px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.show-banner-info p{
+    width: 80%;
+    text-align: justify;
+    font-size: 15pt;
+    margin: 10px;
+}

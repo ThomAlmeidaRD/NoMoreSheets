@@ -1,2 +1,2 @@
 # NoMoreSheets
-Aplicativo financeiro (material de estudo)
+Plataforma de campeonatos de e-sports
